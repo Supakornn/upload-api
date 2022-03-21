@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/H3X-T/file-img-upload-api.git"
+    "url": "git+https://github.com/H3X-T/upload-api.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/H3X-T/file-img-upload-api/issues"
+    "url": "https://github.com/H3X-T/upload-api/issues"
   },
-  "homepage": "https://github.com/H3X-T/file-img-upload-api#readme",
+  "homepage": "https://github.com/H3X-T/upload-api#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cloudinary": "^1.28.1",
